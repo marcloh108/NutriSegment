@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@fal-ai/client": "^1.6.2",
+    "dotenv": "^17.2.2",
+    "firebase": "^12.2.1",
+    "firebase-admin": "^13.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}
